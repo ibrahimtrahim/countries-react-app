@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/countries-react-app/static/css/main.72dbc41b.css",
+    "main.js": "/countries-react-app/static/js/main.839b456d.js",
+    "static/js/453.5e041039.chunk.js": "/countries-react-app/static/js/453.5e041039.chunk.js",
+    "static/media/map.jpg": "/countries-react-app/static/media/map.a601c8029f248293120c.jpg",
+    "index.html": "/countries-react-app/index.html",
+    "main.72dbc41b.css.map": "/countries-react-app/static/css/main.72dbc41b.css.map",
+    "main.839b456d.js.map": "/countries-react-app/static/js/main.839b456d.js.map",
+    "453.5e041039.chunk.js.map": "/countries-react-app/static/js/453.5e041039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72dbc41b.css",
+    "static/js/main.839b456d.js"
+  ]
+}
